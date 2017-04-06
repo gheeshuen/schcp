@@ -1,10 +1,10 @@
 {
-	"parentProxyHost" : "127.0.0.1",
-	"parentProxyPort" : 8118,
+	"parentProxyHost" : "192.168.1.82",
+	"parentProxyPort" : 8080,
 	"parentProxyTypes" : ["none", "socks", "connect"],
 	"parentProxyType" : "connect",
-	"proxyHost" : "127.0.0.1",
-	"proxyPort" : 8181,
+	"proxyHost" : "192.168.1.82",
+	"proxyPort" : 8080,
 	"logLevel" : "WARNING",
 	"logFilename" : "scphcp.log",
 	"certFilename" : "certs"
